@@ -1,3 +1,10 @@
+// Date Completed: 12/29/2024
+
+// Leetcode Problem: https://leetcode.com/problems/copy-list-with-random-pointer/
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 /*
 // Definition for a Node.
 class Node {
