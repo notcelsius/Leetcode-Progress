@@ -1,6 +1,6 @@
 // Date Completed: 1/2/2025
 
-// Leetcode Problem: https://leetcode.com/problems/maximum-average-subarray-i/description/
+// Leetcode Problem: https://leetcode.com/problems/max-consecutive-ones-iii/
 
 // Time Complexity: O(n)
 // Space Complexity: O(1)
